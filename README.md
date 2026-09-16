@@ -5,8 +5,7 @@
   <img src="./assets/menvsbug.gif" width="650px">
 </p>
 
-> ⚔️ A visual representation of my journey from Software Testing to Full Stack Development —  
-> continuously building, testing, breaking, fixing, and improving.
+**Every bug is just another boss fight. 👾⚔️**
 
 I'm a **Software Test Engineer** focused on building reliable, maintainable, and high-quality software. My current work involves **test automation, API testing, performance testing, security assessment, accessibility testing, databases, and CI/CD**.
 
