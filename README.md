@@ -65,7 +65,7 @@ software from end to end.
 This profile is where I document my journey, projects, experiments, and things I'm learning along the way.
 
 <p align="center">
-  <img src="./assets/menvsbug1.gif" width="650px">
+  <img src="./assets/mevsbugs.gif" width="650px">
 </p>
 
 > ⚔️ A visual representation of my journey from Software Testing to Full Stack Development —  
