@@ -64,7 +64,7 @@ software from end to end.
 
 This profile is where I document my journey, projects, experiments, and things I'm learning along the way.
 
-<p align="center">
+<p align="left">
   <img src="./assets/mevsbugs.gif" width="650px">
 </p>
 
