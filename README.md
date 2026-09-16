@@ -2,7 +2,7 @@
 
 ### `Software Test Engineer` → `Full Stack Software Engineer`
 <p align="center">
-  <img src="./assets/mevsbugs.gif" width="900">
+  <img src="./assets/mevsbugs.gif" width="700">
 </p>
 
 I'm a **Software Test Engineer** focused on building reliable, maintainable, and high-quality software. My current work involves **test automation, API testing, performance testing, security assessment, accessibility testing, databases, and CI/CD**.
