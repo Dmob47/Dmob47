@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Divakar Gulati
 
 ### `Software Test Engineer` → `Full Stack Software Engineer`
-<p align="center">
-  <img src="./assets/menvsbug.gif" width="650px">
-</p>
-
-> ⚔️ A visual representation of my journey from Software Testing to Full Stack Development —  
-> continuously building, testing, breaking, fixing, and improving.
-
----
 
 I'm a **Software Test Engineer** focused on building reliable, maintainable, and high-quality software. My current work involves **test automation, API testing, performance testing, security assessment, accessibility testing, databases, and CI/CD**.
 
@@ -71,5 +63,12 @@ software from end to end.
 ### 🚀 Learning in Public
 
 This profile is where I document my journey, projects, experiments, and things I'm learning along the way.
+
+<p align="center">
+  <img src="./assets/menvsbug.gif" width="650px">
+</p>
+
+> ⚔️ A visual representation of my journey from Software Testing to Full Stack Development —  
+> continuously building, testing, breaking, fixing, and improving.
 
 **Learn. Build. Test. Break. Fix. Improve.**
