@@ -65,7 +65,7 @@ software from end to end.
 This profile is where I document my journey, projects, experiments, and things I'm learning along the way.
 
 <p align="left">
-  <img src="./assets/menvsbug.gif" width="650px">
+  <img src="./assets/mevsbugs.gif" width="650px">
 </p>
 
 **Learn. Build. Test. Break. Fix. Improve.**
