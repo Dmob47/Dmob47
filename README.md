@@ -68,7 +68,4 @@ This profile is where I document my journey, projects, experiments, and things I
   <img src="./assets/menvsbug.gif" width="650px">
 </p>
 
-> ⚔️ A visual representation of my journey from Software Testing to Full Stack Development —  
-> continuously building, testing, breaking, fixing, and improving.
-
 **Learn. Build. Test. Break. Fix. Improve.**
